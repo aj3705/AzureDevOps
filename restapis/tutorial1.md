@@ -1,4 +1,4 @@
-# Connecting and performing Azure DevOps operations using Azure DevOps Rest APIs
+# Connect and perform Azure DevOps operations using Azure DevOps Rest APIs
 
 In this tutorial you will learn how to:  
 
