@@ -6,4 +6,4 @@ This tutorial shows you how to:
   How to get a new access token before it expires  
   
   
-[1]: www.google.com
+[1]: https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
