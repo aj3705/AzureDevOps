@@ -8,6 +8,10 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 
 ## Create web application
 
+1. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.
+   ![clone repo](./clone-repo.PNG)
+
+
 
 
 
@@ -29,3 +33,4 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 
 [1]:https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops&viewFallbackFrom=vsts
 [2]:https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
+[3]:https://github.com/microsoft/azure-devops-auth-samples
