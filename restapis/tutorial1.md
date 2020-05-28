@@ -1,7 +1,6 @@
 # Connecting and performing Azure DevOps operations using Azure DevOps Rest APIs
 
-## Summary:
-This tutorial you will learn how to:  
+In this tutorial you will learn how to:  
 
   [Authenticate with Azure DevOps using OAuth2 and get an access token][1]  
   [Use access token to Create a work item in Azure Boards](#u1)  
