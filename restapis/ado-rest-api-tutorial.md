@@ -7,7 +7,7 @@ Apart from the UI, Azure DevOps also provides REST APIs if you want to programat
 In this tutorial you will learn how to:  
 
   [Authenticate with Azure DevOps using OAuth2 and get an access token][1]  
-  [Use access token to create a work item in Azure Boards by calling Azure DavOps REST APIs][4]
+  [Use access token to create a work item in Azure Boards by calling Azure DevOps REST APIs][4]
 
   
 When you are finished, you would have successully created a work item in Azure DevOps boards with data in system fields and custom fields, by invoking Azure DevOps Rest APIs. 
