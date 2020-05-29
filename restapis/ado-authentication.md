@@ -1,6 +1,6 @@
 # Getting access token for DevOps REST APIs
 
-This tutorial is an implementation of the guidence on _how to authorize access to Azure DevOps Rest APIs_ that is available [here][1].In this tutorial you will
+This tutorial is an implementation of the guidence on _how to authorize access to Azure DevOps Rest APIs_ that is available [here][1]. In this tutorial you will
 - [Create an Azure App Service Web App and register it with with Azure DevOps.](#u1)  
 - [Create an ASP .NET application](#u2) based on the [sample application][2] available on github and deploy it to Azure App Service Web Apps.
 - [Get Azure DevOps REST API access token using your application](#u3). 
