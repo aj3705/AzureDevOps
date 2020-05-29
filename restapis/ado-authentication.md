@@ -40,11 +40,11 @@ In this tutorial you will:
       
       You can fill in rest of the fields with any values.  
                
-      ![register app](./images/devops-registration.png)
+      ![register app](./images/devops-registration.png)  
       
       
-      After successful registration you should see a screen like this.
       
+      After successful registration you should see a screen like this.            
       ![register success](./images/devops-registration-succes.png)
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
