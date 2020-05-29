@@ -30,7 +30,7 @@ In this tutorial you will:
        ![web app home](./images/WebAppHome.png)  
    
     
-Register your Web App with Azure DevOps by following the steps below:
+##### Register your Web App with Azure DevOps by following the steps below:
 
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
