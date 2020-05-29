@@ -10,7 +10,7 @@ In this tutorial you will:
 
 ## <a name="u1"> Create and register Azure App Service Web App
 
-<span style="color:red">Create an Azure App Service Web App by following the steps below:</span>
+#### Create an Azure App Service Web App by following the steps below:
 
    1. Login to Azure portal > Click on Create a resource
       
