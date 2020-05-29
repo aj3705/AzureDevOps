@@ -32,6 +32,7 @@ In this tutorial you will:
     
 ##### Register your Web App with Azure DevOps by following the steps below:
 
+   1. Go to [register][https://app.vsaex.visualstudio.com/app/register] to register your app. 
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
 
