@@ -45,7 +45,7 @@ In this tutorial you will:
       
       After successful registration you should see a screen like this.
       
-      ![register success](./images/devops-registration-success.png)
+      ![register success](./images/devops-registration-succes.png)
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
 
