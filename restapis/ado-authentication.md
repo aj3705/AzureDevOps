@@ -42,6 +42,7 @@ In this tutorial you will:
                
       ![register app](./images/devops-registration.png)
       
+      
       After successful registration you should see a screen like this.
       
       ![register success](./images/devops-registration-succes.png)
