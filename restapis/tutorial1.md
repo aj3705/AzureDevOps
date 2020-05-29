@@ -1,6 +1,6 @@
 # Connect and perform Azure DevOps operations using Azure DevOps Rest APIs
 
-Apart from the UI, Azure DevOps also provides REST Apis if you want to programatically perform Azure DevOps actions, such as creating work items in Azure DevOps. As described in the [documentation][2], Azure DevOps supports multiple authentications mechanisms to authenticate to Azure DevOps REST APIs. This tutorial show how to use OAuth 2.0 authentication to invoke Azure DevOps REST API to create a work item in Azure DevOps boards. The following diagram in [Azure DevOps documentation][3] dipicts the flow for authenticating and invoking an Azure DevOps REST API
+Apart from the UI, Azure DevOps also provides REST Apis if you want to programatically perform Azure DevOps actions, such as creating work items in Azure DevOps. As described in the [documentation][2], Azure DevOps supports multiple authentication mechanisms to authenticate to Azure DevOps REST APIs. This tutorial show how to use OAuth 2.0 authentication to invoke Azure DevOps REST API to create a work item in Azure DevOps boards. The following diagram in [Azure DevOps documentation][3] dipicts the flow for authenticating and invoking an Azure DevOps REST API
 
   ![oauth flow](./images/oauth-flow.png)
   
