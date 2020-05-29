@@ -60,6 +60,8 @@ In this tutorial you will:
    Follow the steps under **Run the sample** section in the [Azure DevOps OAuth sample app documentation][6] on github.
 
 ## <a name="u4">  Refresh your access token as needed
+   
+   OAuth access tokens have an expiry time. Follow the steps [here][7] to get a new token before your access token expires. This tutorial shows how to refresh your token using Postman, however you will typically automate this in your application code.
 
 
 
@@ -80,3 +82,4 @@ In this tutorial you will:
 [4]:https://portal.azure.com
 [5]:https://app.vsaex.visualstudio.com/app/register
 [6]:https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
+[7]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/refresh-token
