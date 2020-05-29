@@ -47,7 +47,7 @@ In this tutorial you will:
       
       ![register success](./images/devops-registration-succes.png)
 
-## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
+## <a name="u2">  Create your ASP .NET application for getting OAuth access token and deploy it to Azure App Service Web Apps
 
  1. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
 
