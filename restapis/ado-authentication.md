@@ -8,7 +8,7 @@ In this tutorial you will:
 - [Get Azure DevOps REST API access token using your application](#u3). 
 - [Learn how to refresh the access token using a refresh token](#u4) 
 
-## <a name="u1"> Create web application
+## <a name="u1"> Create and register Azure App Service Web App
 
 Create an ASP.NET web app and deploy to Azure App Service by following the steps below.
 
