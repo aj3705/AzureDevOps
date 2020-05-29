@@ -13,14 +13,11 @@ Create the ASP.NET web app and deploy to Azure App Service by following the step
 1. Create an Azure App Service Web App from [Azure portal][4] following the steps below  
 
    1. Login to Azure portal > Click on Create Resource
+   
 
 2. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
 
----
-
 ![clone repo](./clone-repo.PNG)
-
----
   
 3.
 
