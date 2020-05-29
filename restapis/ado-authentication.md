@@ -8,11 +8,18 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 
 ## Create web application
 
-1. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
+Create the ASP.NET web app and deploy to Azure App Service by following the steps below.
+
+1. Create an Azure App Service Web App from [Azure portal][4] following the steps below  
+
+   1. Login to Azure portal > Click on Create Resource
+
+2. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
+
 
    ![clone repo](./clone-repo.PNG)
 
-
+3.
 
 
 
@@ -35,3 +42,4 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 [1]:https://docs.microsoft.com/en-us/azure/devops/integrate/get-started/authentication/oauth?view=azure-devops&viewFallbackFrom=vsts
 [2]:https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
 [3]:https://github.com/microsoft/azure-devops-auth-samples
+[4]:https://portal.azure.com
