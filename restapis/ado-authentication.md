@@ -8,11 +8,13 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 
 ## <a name="u1"> Create web application
 
-Create the ASP.NET web app and deploy to Azure App Service by following the steps below.
+Create an ASP.NET web app and deploy to Azure App Service by following the steps below.
 
 1. Create an Azure App Service Web App from [Azure portal][4] following the steps below  
 
    1. Login to Azure portal > Click on Create Resource
+   
+   ![create resource](./images/createresource.png)
    
 
 2. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
