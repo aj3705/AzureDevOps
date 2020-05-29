@@ -10,7 +10,7 @@ In this tutorial you will learn how to:
   [Use access token to create a work item in Azure Boards by calling Azure DevOps REST APIs][4]
 
   
-When you are finished, you would have successully created a work item in Azure DevOps boards with data in system and custom fields, by invoking Azure DevOps Rest APIs. 
+When you are finished, you would have successully created a work item in Azure DevOps boards with data in system and custom fields, by invoking Azure DevOps Rest APIs. Let's [dive in][1].
 
 
   
