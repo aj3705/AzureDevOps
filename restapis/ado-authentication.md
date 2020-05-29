@@ -43,16 +43,21 @@ In this tutorial you will:
           
       ![register app](./images/devops-registration.png)
       
+      After successful registration you should see a screen like this.
       
+      ![register success](./images/devops-registration-success.png)
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
 
  1. Clone or download the repo, [microsoft/azure-devops-auth-samples][3] from github.  
 
        ![clone repo](./images/clone-repo.PNG)
+       
+ 2. Follow steps 2-5 in the [Azure DevOps OAuth sample app documentation][6] on github.
 
 ## <a name="u3">  Authorize your web application and get access token
-
+   
+   Follow the steps under **Run the sample** section in the [Azure DevOps OAuth sample app documentation][6] on github.
 
 ## <a name="u4">  Refresh your access token as needed
 
@@ -74,3 +79,4 @@ In this tutorial you will:
 [3]:https://github.com/microsoft/azure-devops-auth-samples
 [4]:https://portal.azure.com
 [5]:https://app.vsaex.visualstudio.com/app/register
+[6]:https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
