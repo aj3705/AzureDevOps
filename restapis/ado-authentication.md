@@ -34,7 +34,8 @@ In this tutorial you will:
 
    1. Go to [https://app.vsaex.visualstudio.com/app/register][5]. This will open the Azure DevOps registration page. Fill out the fields as follows:   
    
-      **Application Website:** URL of the Azure App Services Web App you created in step 4 above, https://{yoursite}.azurewebsites.net.         **Application callback URL :** https://{yoursite}.azurewebsites.net/oauth/callback.  
+      **Application Website:** URL of the Azure App Services Web App you created in step 4 above, https://{yoursite}.azurewebsites.net.  
+      **Application callback URL :** https://{yoursite}.azurewebsites.net/oauth/callback.  
       **Authorized scopes:** Work items (read and write)  
       
       You can fill in rest of the fields with any values.  
