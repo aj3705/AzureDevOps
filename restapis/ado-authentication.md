@@ -4,7 +4,7 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 
 In this tutorial you will:
 - [Create an Azure App Service Web App and register it with with Azure DevOps.](#u1)  
-- [Create an ASP .NET application](#u2) based on the [sample application][2] available on github and deploy it to Azure App Service Web Apps.
+- [Create an ASP .NET application](#u2) based on the [sample application][2] available on github and deploy it to Azure App Service Web App created above.
 - [Get Azure DevOps REST API access token using your application](#u3). 
 - [Learn how to refresh the access token using a refresh token](#u4) 
 
