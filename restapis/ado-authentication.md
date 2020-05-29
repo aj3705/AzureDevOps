@@ -39,8 +39,7 @@ In this tutorial you will:
          **Authorized scopes:** Work items (read and write)  
       
       You can fill in rest of the fields with any values.  
-     
-          
+               
       ![register app](./images/devops-registration.png)
       
       After successful registration you should see a screen like this.
