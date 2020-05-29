@@ -6,7 +6,7 @@ Apart from the UI, Azure DevOps also provides REST APIs if you want to programat
   
 In this tutorial you will learn how to:  
 
-  [Get an OAuth2 access token using a sample ASP .NET web application][1]  
+  [Get OAuth access token using a sample ASP .NET web application][1]  
   [Use access token to create a work item in Azure Boards by calling Azure DevOps REST APIs][4]
 
   
