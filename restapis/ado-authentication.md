@@ -10,9 +10,7 @@ In this tutorial you will:
 
 ## <a name="u1"> Create and register Azure App Service Web App
 
-Create an ASP.NET web app and deploy to Azure App Service by following the steps below.
-
-### 1. Create an Azure App Service Web App from [Azure portal][4] following the steps below  
+Create an Azure App Service Web App by following the steps below:
 
    1. Login to Azure portal > Click on Create a resource
       
@@ -32,7 +30,7 @@ Create an ASP.NET web app and deploy to Azure App Service by following the steps
        ![web app home](./images/WebAppHome.png)  
    
     
-### 2. Register your Web App with Azure DevOps
+Register your Web App with Azure DevOps by following the steps below:
 
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
