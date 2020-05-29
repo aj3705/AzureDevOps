@@ -4,7 +4,7 @@ This tutorial is an implementation of the guidence on _how to authorize access t
 - Create a web application based on the [sample application][2] available on github 
 - Register the web application with Azure DevOps. 
 - Authorize your web application to access your Azure DevOps organizations with the specific scopes your application needs(scopes will let you control the actions that your application can perform in your Azure DevOps Organizations).Once the authorization is complete, your application will get an authorization code.Your application will use the authorization code to get the access token for the Rest APIs. 
-- Learn how to refresh the access token using a refresh token
+- Learn how to `refresh` the access token using a refresh token
 
 ## Create web application
 
