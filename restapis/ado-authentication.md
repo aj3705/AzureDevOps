@@ -40,11 +40,10 @@ In this tutorial you will:
       
       You can fill in rest of the fields with any values.  
      
-     ```
-      
+          
       ![register app](./images/devops-registration.png)
       
-      ```
+      
 
 ## <a name="u2">  Create your ASP .NET application and deploy it to Azure App Service Web Apps
 
