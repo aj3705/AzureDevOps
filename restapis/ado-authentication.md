@@ -12,7 +12,7 @@ Create an ASP.NET web app and deploy to Azure App Service by following the steps
 
 1. Create an Azure App Service Web App from [Azure portal][4] following the steps below  
 
-   1. Login to Azure portal > Click on Create Resource
+   1. Login to Azure portal > Click on Create Resource  
    
    
       ![create resource](./images/createresource.png)
