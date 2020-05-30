@@ -31,36 +31,6 @@ In this tutorial, you will:
      
      ```
   6. Populate the request body with the JSON for creating work item in Azure DevOps Boards.
-    
-     ```
-     [
-      {
-        "op": "add",
-        "path": "/fields/System.Title",
-        "from": null,
-        "value": "Exfiltration of Data8"
-      },
-      {
-        "op": "add",
-        "path": "/fields/System.Description",
-        "from": null,
-        "value": "Exfiltration happens when an attacker causes a response to include data that it should not have. Web applications and services may produce response bodies that include too much information"
-      },
-      {
-        "op": "add",
-        "path": "/fields/Activity",
-        "from": null,
-        "value": "Development"
-      },
-       {
-        "op": "add",
-        "path": "/fields/application",
-        "from": null,
-        "value": "Bruce"
-      }
-    ]
-     
-     ```
 
 
 
