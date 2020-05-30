@@ -153,10 +153,12 @@ In this tutorial, you will:
      
    8. Loginto Azure DevOps > Click on Boards and navigate to your project. You should find the work item you just created.
    
-      ![postman response](./images/boards-wkitem.png)  
+      ![azure boards](./images/boards-wkitem.png)  
         
         
      
 [1]:https://www.postman.com/downloads/
 [2]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
 
+
+Congrats!! you now know how to create work items in Azure Boards using REST.
