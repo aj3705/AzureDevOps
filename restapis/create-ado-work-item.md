@@ -1,6 +1,6 @@
 # Create Azure DevOps work item using Azure DevOps REST APIs.  
 
-**Prerequisite:** If you have not already done so, please follow the steps in [Getting access token for DevOps REST APIs][1] to get the access token for DevOps REST APIs . 
+**Prerequisite:** If you have not already done so, please follow the steps in [Getting access token for DevOps REST APIs][2] to get the access token for DevOps REST APIs . 
 
 In this tutorial, you will:
 - [Configure a custom process for your Azure DevOps project to add a custom field to Azure Boards work item.](#u1)
