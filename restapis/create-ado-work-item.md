@@ -30,11 +30,38 @@ In this tutorial, you will:
      https://dev.azure.com/{organization}/{project}/_apis/wit/workitems/$issue?api-version=5.1
      
      ```
-  6. Populate the request body with the JSON for creating work item in Azure DevOps Boards.
+  6. Populate the request body with the following JSON for creating work item in Azure DevOps Boards. Notice that 
   
      ```
-     code
+      [
+        {
+          "op": "add",
+          "path": "/fields/System.Title",
+          "from": null,
+          "value": "SampleWorkItem"
+        },
+        {
+          "op": "add",
+          "path": "/fields/System.Description",
+          "from": null,
+          "value": "This is a sample workitem created using Azure DevOps REST APIs"
+        },
+        {
+          "op": "add",
+          "path": "/fields/Activity",
+          "from": null,
+          "value": "Development"
+        },
+         {
+          "op": "add",
+          "path": "/fields/application",
+          "from": null,
+          "value": "This is a custom field"
+        }
+      ]
      ```
+     
+      ![request body](./images/req-body.PNG) 
 
 
 
