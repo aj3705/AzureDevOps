@@ -3,11 +3,50 @@
 **Prerequisite:** If you have not already done so, please follow the steps in [Getting access token for DevOps REST APIs][1] to get the access token for DevOps REST APIs . 
 
 In this tutorial, you will:
-- [Configure a custom process for your Azure DevOps project, and add a custom field to Azure Boards work item.](#u1)
+- [Configure a custom process for your Azure DevOps project to add a custom field to Azure Boards work item.](#u1)
 - [Using the access token obtained in the previous tutorial, you will create a work item in Azure Boards by invoking Azure DevOps REST API](#u2)
 
 
-## <a name="u1"> Add custom field(s) to your Azure Boards work items  
+## <a name="u1"> Add custom field(s) to your Azure Boards work items
+  
+  ### Steps
+   
+  1. Login to Azure DevOps > Select your project > Project Settings > Boards > Project Configuration
+  2. Click on the _got to the process customization page_ link  
+       
+     ![boards project config](./images/boards-project-config.png)  
+     
+  3. Click on All Processes > **...** next to Basic > Create inherited process
+     
+     ![create new process](./images/create-inherited-process.png)  
+     
+  4. Enter a name and description and click on "cerate custom process"
+  
+      ![create new process](./images/new-process.png)  
+  
+  5. Click on the new process > issue > new field
+  
+     ![create new field](./images/create-new-field.png)  
+     
+  6. Enter "application" for name and click on add field
+    
+     ![create new field](./images/application-field.png) 
+     
+  7. Go to Organization Settings > Boards > Process and find your project under team projects
+    
+     ![change process ](./images/change-process-1.png) 
+  
+  8. Click **...** next to your project name > change process
+    
+     ![change process ](./images/change-process-2.png) 
+     
+  9. Select the new process you created in the "target process" drop down and click save.
+    
+     ![change process ](./images/change-process-3.png) 
+     
+You have successfully changed the process for your project. The custom field, "application" you added will show up in any new work item you create.
+
+
   
 ## <a name="u2"> Create work item using Azure DevOps REST API
   
@@ -30,7 +69,7 @@ In this tutorial, you will:
      https://dev.azure.com/{organization}/{project}/_apis/wit/workitems/$issue?api-version=5.1
      
      ```
-  6. Populate the request body with the following JSON for creating work item in Azure DevOps Boards.Note that we are populating built-in fields as well as a custom field called "application". 
+  6. Populate the request body with the following JSON for creating work item in Azure DevOps Boards.Note that we are populating built-in fields as well as **a custom field called "application"**. 
   
      ```
       [
