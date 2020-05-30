@@ -6,7 +6,7 @@ OAuth tokens have an expiry time associated with them. You can get a new access 
 
 1. Open Postman application and click on **+** to create a new request
 2. Select "POST" from the drop down and enter https://app.vssps.visualstudio.com/oauth2/token in the url field
-3. Click on Body > selct  "x-www-form-urlencoded" enter the following name - value fields 
+3. Click on "Body" > selct  "x-www-form-urlencoded" enter the following name - value fields 
     
    - client_assertion_type = urn:ietf:params:oauth:client-assertion-type:jwt-bearer
    - client_assertion = {client secret acquired when the app was registered}
@@ -15,3 +15,11 @@ OAuth tokens have an expiry time associated with them. You can get a new access 
    - redirect_uri = https://{yoursitename}.azurewebsites.net/oauth/callback
    
     ![refresh token](./images/refresh-token.png)  
+
+4. Click "Send". You will get a new access token and a new refresh token in the response. 
+    
+    ![refresh token](./images/refresh-token-response.png)  
+
+5. Securely store the access and refresh tokens.
+       
+ 
