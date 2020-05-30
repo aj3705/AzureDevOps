@@ -82,5 +82,5 @@ In this tutorial you will:
 [4]:https://portal.azure.com
 [5]:https://app.vsaex.visualstudio.com/app/register
 [6]:https://github.com/microsoft/azure-devops-auth-samples/tree/master/OAuthWebSample
-[7]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/refresh-token
+[7]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/refresh-token.md
 [8]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/create-ado-work-item.md
