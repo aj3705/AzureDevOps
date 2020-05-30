@@ -148,7 +148,14 @@ In this tutorial, you will:
          
      ```
      **Response in Postman:**  
+     
      ![postman response](./images/response.png)  
+     
+   8. Loginto Azure DevOps > Click on Boards and navigate to your project. You should find the work item you just created.
+   
+      ![postman response](./images/boards-wkitem.png)  
+        
+        
      
 [1]:https://www.postman.com/downloads/
 [2]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
