@@ -22,8 +22,14 @@ In this tutorial, you will:
      ![select bearer token](./images/select-bearer-token.png)  
   4. Copy paste the Azure DevOps access token that you obtained in the [tutorial][2] on how to get access token.  
       
-     ![select bearer token](./images/bearer-token-entry.PNG) 
-
+     ![select bearer token](./images/bearer-token-entry.PNG)  
+     
+  5. Populate the url field:
+     
+     ```
+     https://dev.azure.com/{organization}/{project}/_apis/wit/workitems/$issue?api-version=5.1
+     
+     ```
 
 
 
