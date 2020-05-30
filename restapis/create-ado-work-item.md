@@ -146,18 +146,10 @@ In this tutorial, you will:
         "url": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281"
      }
          
-   ```
+     ```
+     
+     
+     
 [1]:https://www.postman.com/downloads/
 [2]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
 
-
-
-
-
-
-
-
-
-
-
-[1]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
