@@ -7,7 +7,7 @@ In this tutorial, you will:
 - [Using the access token obtained in the previous tutorial, you will create a work item in Azure Boards by invoking Azure DevOps REST API](#u2)
 
 
-## <a name="u1"> Configure custom process to add a custom field to Azure Boards work item  
+## <a name="u1"> Add custom field(s) to your Azure Boards work items  
   
 ## <a name="u2"> Create work item using Azure DevOps REST API
   
