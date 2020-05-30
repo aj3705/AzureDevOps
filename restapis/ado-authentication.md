@@ -57,7 +57,7 @@ In this tutorial you will:
 
 ## <a name="u3">  Authorize your web application and get access token
    
-   Follow the steps under **Run the sample** section in the [Azure DevOps OAuth sample app documentation][6] on github.
+   Follow the steps under **Run the sample** section in the [Azure DevOps OAuth sample app documentation][6] on github to obtain access and refresh tokens. Securely save these values. **You should keep these values secret.** 
 
 ## <a name="u4">  Refresh your access token as needed
    
