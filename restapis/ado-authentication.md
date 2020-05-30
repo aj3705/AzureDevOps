@@ -65,7 +65,7 @@ In this tutorial you will:
 
 **Next:** [Invoke Azure DevOps REST API with access token to create work items in Azure DevOps Boards.][8]
 
-[Go to beginning of this tutorial]:8
+[Go to beginning of this tutorial][8]
 
 
 
