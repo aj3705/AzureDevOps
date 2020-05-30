@@ -64,15 +64,89 @@ In this tutorial, you will:
      
      Select "raw" and copy paste the above in the request body section.
      
-      ![request body](./images/req-body.png) 
-
-
-
-
-
-
-
-
+      ![request body](./images/req-body.png)  
+      
+  7. Click on send. You should see a response like the following, in the response window.
+    
+     ```
+     
+      {
+        "id": 281,
+        "rev": 1,
+        "fields": {
+            "System.AreaPath": "restapis",
+            "System.TeamProject": "restapis",
+            "System.IterationPath": "restapis",
+            "System.WorkItemType": "Issue",
+            "System.State": "To Do",
+            "System.Reason": "Added to backlog",
+            "System.CreatedDate": "2020-05-30T17:35:51.007Z",
+            "System.CreatedBy": {
+                "displayName": "John Doe",
+                "url": "https://spsprodcus2.vssps.visualstudio.com/Ac0480758-daf6-4e5f-8fa2-068e5186778c/_apis/Identities/ff75c02c-bc09-4d99-b0f9-8ac685c5b88f",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/John-devops-e2e/_apis/GraphProfile/MemberAvatars/aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw"
+                    }
+                },
+                "id": "ff75c02c-bc09-4d99-b0f9-8ac685c5b88f",
+                "uniqueName": "johndoe@xyz.com",
+                "imageUrl": "https://dev.azure.com/John-devops-e2e/_apis/GraphProfile/MemberAvatars/aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw",
+                "descriptor": "aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw"
+            },
+            "System.ChangedDate": "2020-05-30T17:35:51.007Z",
+            "System.ChangedBy": {
+                "displayName": "John Doe",
+                "url": "https://spsprodcus2.vssps.visualstudio.com/Ac0480758-daf6-4e5f-8fa2-068e5186778c/_apis/Identities/ff75c02c-bc09-4d99-b0f9-8ac685c5b88f",
+                "_links": {
+                    "avatar": {
+                        "href": "https://dev.azure.com/John-devops-e2e/_apis/GraphProfile/MemberAvatars/aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw"
+                    }
+                },
+                "id": "ff75c02c-bc09-4d99-b0f9-8ac685c5b88f",
+                "uniqueName": "johndoe@xyz.com",
+                "imageUrl": "https://dev.azure.com/John-devops-e2e/_apis/GraphProfile/MemberAvatars/aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw",
+                "descriptor": "aad.OTRhYWMzY2YtOTVkMy03OWE1LTk0NzEtOGRmYjJhZGIzMzYw"
+            },
+            "System.CommentCount": 0,
+            "System.Title": "SampleWorkItem",
+            "System.BoardColumn": "To Do",
+            "System.BoardColumnDone": false,
+            "Microsoft.VSTS.Common.Activity": "Development",
+            "Microsoft.VSTS.Common.StateChangeDate": "2020-05-30T17:35:51.007Z",
+            "Microsoft.VSTS.Common.Priority": 2,
+            "WEF_85808D61BB4841AFA45B316010843052_Kanban.Column": "To Do",
+            "WEF_85808D61BB4841AFA45B316010843052_Kanban.Column.Done": false,
+            "Custom.application": "This is a custom field",
+            "System.Description": "This is a sample workitem created using Azure DevOps REST APIs"
+        },
+        "_links": {
+            "self": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281"
+            },
+            "workItemUpdates": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281/updates"
+            },
+            "workItemRevisions": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281/revisions"
+            },
+            "workItemComments": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281/comments"
+            },
+            "html": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_workitems/edit/281"
+            },
+            "workItemType": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItemTypes/Issue"
+            },
+            "fields": {
+                "href": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/fields"
+            }
+        },
+        "url": "https://dev.azure.com/John-devops-e2e/87e90748-cb99-4fe2-bf81-125980e6fc89/_apis/wit/workItems/281"
+     }
+         
+   ```
 [1]:https://www.postman.com/downloads/
 [2]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
 
