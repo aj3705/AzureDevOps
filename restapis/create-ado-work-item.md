@@ -60,8 +60,9 @@ In this tutorial, you will:
         }
       ]
      ```
+     **Request body in Postman:**
      
-      ![request body](./images/req-body.PNG) 
+      ![request body](./images/req-body.png) 
 
 
 
