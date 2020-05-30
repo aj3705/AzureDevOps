@@ -62,6 +62,8 @@ In this tutorial, you will:
      ```
      **Request body in Postman:**
      
+     Select "raw" and copy paste the above in the request body section.
+     
       ![request body](./images/req-body.png) 
 
 
