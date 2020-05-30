@@ -30,7 +30,7 @@ In this tutorial, you will:
      https://dev.azure.com/{organization}/{project}/_apis/wit/workitems/$issue?api-version=5.1
      
      ```
-  6. Populate the request body with the following JSON for creating work item in Azure DevOps Boards. Notice that 
+  6. Populate the request body with the following JSON for creating work item in Azure DevOps Boards.Note that we are populating built-in fields as well as a custom field called "application". 
   
      ```
       [
@@ -147,8 +147,8 @@ In this tutorial, you will:
      }
          
      ```
-     
-     
+     **Response in Postman:**  
+     ![postman response](./images/response.png)  
      
 [1]:https://www.postman.com/downloads/
 [2]:https://github.com/aj3705/AzureDevOps/blob/master/restapis/ado-authentication.md
