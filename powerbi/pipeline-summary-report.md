@@ -12,7 +12,7 @@ Steps:
   
 ## <a name =u1> Download and install Power BI desktop 
   
-  ![oauth flow](https://github.com/aj3705/AzureDevOps/blob/master/powerbi/images/blank-query.JPG?v=4&s=200 )
+  ![oauth flow](https://github.com/aj3705/AzureDevOps/blob/master/powerbi/images/blank-query.JPG?v=500&s=200 )
   
 [1]:https://docs.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
 [2]: https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-pipelines-allpipelines?view=azure-devops&tabs=powerbi
