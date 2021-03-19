@@ -12,7 +12,7 @@ Steps:
   
 ## <a name =u1> Download and install Power BI desktop 
   
-  ![oauth flow](./images/blank-query.JPG ){:height="700px" width="400px"}
+  ![oauth flow](./images/blank-query.JPG ){:height="50%" width="50%"}
   
 [1]:https://docs.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
 [2]: https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-pipelines-allpipelines?view=azure-devops&tabs=powerbi
