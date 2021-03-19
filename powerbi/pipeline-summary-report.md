@@ -4,17 +4,19 @@ Currently Azure DevOps [pipeline reports][1] provide valuable analytics such as 
  
 Steps:  
 
-  1. [Download Power BI Desktop](#u1) 
-  [Use the access token to create a work item in Azure Boards by calling Azure DevOps REST APIs][4]
+  ## 1. [Download Power BI Desktop][3]
+  ## 2. 
+
 
 
   
-# <a name =u1> Download and install Power BI desktop 
+## <a name =u1> Download and install Power BI desktop 
   
   ![oauth flow](./images/oauth-flow.png)
   
 [1]:https://docs.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
 [2]: https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-pipelines-allpipelines?view=azure-devops&tabs=powerbi
+[3]:https://powerbi.microsoft.com/en-us/desktop/
 
 
 
