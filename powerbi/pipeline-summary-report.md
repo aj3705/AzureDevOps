@@ -4,8 +4,8 @@ Currently Azure DevOps [pipeline reports][1] provide valuable analytics such as 
  
 Steps:  
 
-  ## 1. [Download Power BI Desktop][3]
-  ## 2. 
+   1. [Download Power BI Desktop][3]
+   2. 
 
 
 
