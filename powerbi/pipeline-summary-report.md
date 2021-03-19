@@ -1,6 +1,6 @@
 # Create Azure DevOps Pipeline summary report for all pipelines using Power BI
 
-Currently Azure DevOps pipeline [reports][1]. As described in the [documentation][2], Azure DevOps supports multiple authentication mechanisms to authenticate to Azure DevOps REST APIs. This tutorial show how to create a work item in Azure DevOps Boards via REST API calls using OAuth 2.0 authentication. The following diagram from [Azure DevOps documentation][3] dipicts the OAuth flow for getting an access token and invoking Azure DevOps REST APIs.
+Currently Azure DevOps [pipeline reports][1] provide valuable analytics such as pass/fail rates, however the scope of these reports is an individual report -- 
 
   ![oauth flow](./images/oauth-flow.png)
   
